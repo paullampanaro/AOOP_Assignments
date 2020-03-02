@@ -1,0 +1,2 @@
+this:is:the:first:line:for:sample:cut
+here:is:another:line:for:testing
